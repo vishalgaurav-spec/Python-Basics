@@ -6,3 +6,5 @@ Learning Python fundamentals and GIT Workflow
 
 -hello.py:Simple Greeting Function
 -calculator.py:Basic mathematical operations
+
+#Learning GIT Commands
